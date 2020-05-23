@@ -24,12 +24,14 @@
   },
   "plugins": ["react", "react-hooks", "@typescript-eslint", "prettier"],
   "rules": {
+    "no-undef": "warn",
+    "no-unused-vars": "warn",
     "@typescript-eslint/camelcase": "off",
     "react/jsx-one-expression-per-line": "off",
     "camelcase": "off",
     "prettier/prettier": "error",
     "@typescript-eslint/no-unused-vars": [
-      "error",
+      "warn",
       {
         "argsIgnorePattern": "_"
       }
