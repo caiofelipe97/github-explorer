@@ -11,6 +11,8 @@ Project to explore Github projects and issues
   - Run "yarn start"
   
  # Screens:
-  
+ ### Repositories Screen
+ ![github-explorer](https://user-images.githubusercontent.com/20324935/82719743-bb956380-9c83-11ea-97be-4f0343681875.png)
+
  
 This project was made on GoStack Bootcamp by Rocketseat.
