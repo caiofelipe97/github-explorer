@@ -5,6 +5,7 @@ Project to explore Github projects and issues
   - Search Repository
   - See Repository details and Issues
   - Click into a issue and go to issue page on github
+- This project uses github API.
   
 # Steps to run:
   - Run "yarn"
